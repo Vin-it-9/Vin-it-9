@@ -9,13 +9,11 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img  height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/vin-it-9/count.svg?"  />
-</div>
+
 
 ###
 
