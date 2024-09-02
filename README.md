@@ -2,7 +2,7 @@
 
 I'm a passionate Full Stack Developer with experience in building dynamic web applications using a variety of technologies. I enjoy solving problems and continuously learning new things to improve my skill set.
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=vin-it-9&color=blue)
 
 ## 🚀 Skills & Technologies
 
