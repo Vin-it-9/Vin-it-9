@@ -36,7 +36,7 @@ I'm a passionate Full Stack Developer with experience in building dynamic web ap
 
 ## 📊 Language Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vin-it-9&layout=compact&langs_count=8&theme=radical)
 
 ## 🛠️ Tools I Use
 
@@ -45,10 +45,6 @@ I'm a passionate Full Stack Developer with experience in building dynamic web ap
 - **Build Tools:** Maven, Gradle
 - **Database:** MySQL, PostgreSQL
 - **Testing:** JUnit, Mockito
-
-## 🐍 Fun with Snake Animation
-
-<img src="https://raw.githubusercontent.com/vin-it-9/vin-it-9/output/snake.svg" alt="Snake animation" />
 
 ## 🔥 Streak Stats
 
