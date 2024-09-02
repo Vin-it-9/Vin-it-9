@@ -49,7 +49,3 @@ I'm a passionate Full Stack Developer with experience in building dynamic web ap
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vin-it-9&theme=radical)
-
-## 📈 Contribution Graph
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=vin-it-9&theme=rogue)
