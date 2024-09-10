@@ -42,9 +42,9 @@ I'm a passionate Full Stack Developer with experience in building dynamic web ap
 
 - **Version Control:** Git & GitHub
 - **IDE:** VS Code, IntelliJ IDEA
-- **Build Tools:** Maven, Gradle
-- **Database:** MySQL, PostgreSQL
-- **Testing:** JUnit, Mockito
+- **Build Tools:** Maven
+- **Database:** MySQL
+- **Testing:** JUnit
 
 ## 🔥 Streak Stats
 
