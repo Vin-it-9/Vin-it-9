@@ -23,13 +23,15 @@ I'm a passionate Full Stack Developer with experience in building dynamic web ap
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="Apache Maven logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code logo" />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo" />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="Eclipse logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/hibernate/59666C" height="40" alt="Hibernate logo" />
 </div>
@@ -41,7 +43,7 @@ I'm a passionate Full Stack Developer with experience in building dynamic web ap
 ## 🛠️ Tools I Use
 
 - **Version Control:** Git & GitHub
-- **IDE:** VS Code, IntelliJ IDEA
+- **IDE:** VS Code, IntelliJ IDEA , Spring Tool Suite
 - **Build Tools:** Maven
 - **Database:** MySQL
 - **Testing:** JUnit
