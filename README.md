@@ -43,7 +43,7 @@ I'm a passionate Engineering student with experience in building dynamic web app
 ## 🛠️ Tools I Use
 
 - **Version Control:** Git & GitHub
-- **IDE:** VS Code, IntelliJ IDEA , Spring Tool Suite
+- **IDE:** VS Code, IntelliJ IDEA Ultimate, Spring Tool Suite
 - **Build Tools:** Maven
 - **Database:** MySQL
 - **Testing:** JUnit
