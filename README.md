@@ -1,40 +1,49 @@
-# 👋 Hi, I'm Vinit!
+<h1 align="center">Hey! I'm Vinit Shinde</h1>
+<h3 align="center">Full Stack Developer</h3>
 
+<div align="center">
+  <img alt="Coding" width="800" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+</div>
 I'm a passionate Engineering student with experience in building dynamic web applications using a variety of technologies. I enjoy solving problems and continuously learning new things to improve my skill set.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vin-it-9&color=blue)
 
 ## 🚀 Skills & Technologies
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="Apache Maven logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code logo" />
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="idea logo" />
-  <img width="12" />
-    <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="Eclipse logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/hibernate/59666C" height="40" alt="Hibernate logo" />
+### Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,c,cpp,sql" alt="Programming Languages"/>
+  </a>
+</p>
+
+### Frontend Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend Technologies"/>
+  </a>
+</p>
+
+### Backend & Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,postgresql,mysql,prisma,hibernate" alt="Backend Technologies"/>
+  </a>
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,git,github,postman,vercel,vscode,eclipse,maven" alt="Development Tools"/>
+  </a>
+</p>
+
+## GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vin-it-9&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
+
 
 ## 📊 Language Stats
 
@@ -45,7 +54,7 @@ I'm a passionate Engineering student with experience in building dynamic web app
 - **Version Control:** Git & GitHub
 - **IDE:** VS Code, IntelliJ IDEA Ultimate, Spring Tool Suite
 - **Build Tools:** Maven
-- **Database:** MySQL
+- **Database:** MySQL , Postgresql
 - **Testing:** JUnit
 
 ## 🔥 Streak Stats
