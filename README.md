@@ -58,5 +58,4 @@ I'm a passionate Engineering student with experience in building dynamic web app
 - **Testing:** JUnit
 
 ## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vin-it-9&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vin-it-91&theme=dark)](https://git.io/streak-stats)
