@@ -84,10 +84,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Vin-it-9&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+
 
 <!-- Tools Section -->
 <h2 align="left">🛠️ Tools I Use</h2>
@@ -122,7 +119,7 @@
 <h2 align="left">🌟 Highlighted Skills</h2>
 
 <div align="center">
-  <img src="https://github.com/Vin-it-9/Vin-it-9/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Vin-it-9/Vin-it-9/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ```javascript
