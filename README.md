@@ -1,50 +1,79 @@
 <div align="center">
 
-  <!-- 3D Header Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Vinit%20Shinde&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%">
+  <!-- Animated Gradient Header with 3D Effect -->
+  <a href="https://github.com/Vin-it-9">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF1493&height=300&section=header&text=Vinit%20Shinde&desc=Full%20Stack%20Developer&animation=fadeIn&fontColor=fff&fontSize=90&fontAlignY=40&descAlignY=55&descAlign=50&stroke=fff&strokeWidth=2" width="100%">
+  </a>
+  
+  <!-- Dynamic Badges -->
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=Vin-it-9&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+    <a href="https://github.com/Vin-it-9?tab=followers">
+      <img src="https://img.shields.io/github/followers/Vin-it-9?style=for-the-badge&logo=github&color=9645f4" alt="Followers"/>
+    </a>
+  </div>
   
   <!-- Animated Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Java+%26+SpringBoot+Enthusiast;Problem+Solver;Microservice+Architecture;Always+Learning...;Quarkus;Micronaut" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Java+%26+SpringBoot+Expert+%F0%9F%9A%80;Microservice+Architecture+%F0%9F%8F%97%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;Clean+Code+Enthusiast+%E2%9C%A8;Always+Learning...+%F0%9F%93%9A;Quarkus;Micronaut" alt="Typing SVG" />
   
   <!-- Developer Animation -->
   <img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
   
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Vin-it-9&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <!-- About Me Section with Emojis -->
+  <div align="left">
+    <h2>✨ About Me ✨</h2>
+  </div>
+  <p align="left">
+    <em>🌱 I'm a passionate Engineering student with a focus on building robust web applications.<br>
+    🚀 Always learning, constantly improving, and solving problems one line of code at a time.<br>
+    💡 I love exploring new technologies and developing software solutions.<br>
+    🎯 Interested in microservice architecture and cloud-native applications.</em>
   </p>
   
-  <!-- Social Media Buttons -->
+  <!-- Social Media Buttons with Hover Effect -->
   <div>
-    <a href="mailto:vineetshinde2559@gmail.com">
+    <a href="mailto:vineetshinde2559@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://www.linkedin.com/in/vinit-shinde-920531254/">
+    <a href="https://www.linkedin.com/in/vinit-shinde-920531254/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-  
+    <a href="https://github.com/Vin-it-9" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
   </div>
-
-  <p>I'm a passionate Engineering student with a focus on building robust web applications.<br>Always learning, constantly improving, and solving problems one line of code at a time.</p>
-
+  
+  <!-- Animated Separator -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-<!-- GitHub Stats Cards with Animations -->
-<div align="center" style="margin-top:30px;">
+<!-- GitHub Stats Cards with Glowing Effect -->
+<div align="left">
+  <h2>📊 GitHub Statistics 📊</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vin-it-9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&hide_border=true&bg_color=0D1117"/>
+    <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vin-it-9&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&hide_border=true&bg_color=0D1117&title_color=F73D93&icon_color=F73D93"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vin-it-9&layout=compact&langs_count=7&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0D1117"/>
+    <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vin-it-9&layout=compact&langs_count=7&theme=radical&border_radius=15&hide_border=true&bg_color=0D1117&title_color=F73D93&icon_color=F73D93"/>
   </a>
 </div>
 
-<!-- Language Activity Graph -->
-<div align="center" style="margin-top:30px;">
+<!-- Streak & Activity -->
+<div align="left">
+  <h2>🔥 Contribution Streak 🔥</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vin-it-9&theme=radical&hide_border=true&background=0D1117&stroke=F73D93&fire=FF2E63&ring=F73D93&currStreakNum=FFFFFF&sideNums=F73D93&currStreakLabel=F73D93&sideLabels=F73D93&dates=FFFFFF" alt="GitHub Streak" />
+  
+  <!-- Animated Activity Graph -->
+  <h2>📈 Contribution Graph 📈</h2>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Vin-it-9&theme=react-dark&hide_border=true" />
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Vin-it-9&theme=rogue&hide_border=true&area=true" />
   </a>
+
+  <!-- Animated Separator -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
+<!-- Tech Stack Section with Modern Design -->
 <!-- Tech Stack Section with SVG Wave Divider -->
 <object type="image" data="https://github.com/trinib/trinib/raw/main/images/wave.svg" width="100%"></object>
 
@@ -72,23 +101,18 @@
   <img src="https://skillicons.dev/icons?i=idea,git,github,postman,vscode,eclipse,maven,aws,heroku" alt="Development Tools"/>
 </div>
 
-<!-- GitHub Streak Stats with Animation -->
-<h2 align="left">📈 GitHub Stats</h2>
-
+<!-- GitHub Trophies with Animation -->
 <div align="left">
-  <!-- GitHub Trophies with Animation -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Vin-it-9&theme=nord&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" width="100%" />
+  <h2>🏆 GitHub Achievements 🏆</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vin-it-9&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" width="100%" />
+
+  <!-- Animated Separator -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-<div align="center" style="margin-top:30px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vin-it-9&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
-
-
-<!-- Tools Section -->
-<h2 align="left">🛠️ Tools I Use</h2>
-
+<!-- Developer Tools with Icons in Beautiful Table -->
+<div align="left">
+  <h2>💻 Development Environment 💻</h2>
 <div align="center">
   <table>
     <tr>
@@ -114,12 +138,9 @@
     </tr>
   </table>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vin-it-9/Vin-it-9/output/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vin-it-9/Vin-it-9/output/dist/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vin-it-9/Vin-it-9/output/dist/github-contribution-grid-snake.svg">
-</picture>
+  <!-- Animated Separator -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <!-- Skills Section with Animation -->
 <h2 align="left">🌟 Highlighted Skills</h2>
