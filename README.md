@@ -60,17 +60,15 @@
 
 <!-- Streak & Activity -->
 <div align="left">
-  <h2>🔥 Contribution Streak 🔥</h2>
+  <h2>Contribution Streak</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Vin-it-9&theme=radical&hide_border=true&background=0D1117&stroke=F73D93&fire=FF2E63&ring=F73D93&currStreakNum=FFFFFF&sideNums=F73D93&currStreakLabel=F73D93&sideLabels=F73D93&dates=FFFFFF" alt="GitHub Streak" />
   
   <!-- Animated Activity Graph -->
   <h2>📈 Contribution Graph 📈</h2>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Vin-it-9&theme=rogue&hide_border=true&area=true" />
-  </a>
-
-  <!-- Animated Separator -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vin-it-9&custom_title=Contribution%20Graph&hide_border=true&bg_color=0d1117&color=9D4EDD&line=9D4EDD&point=C9D1D9&area=true&area_color=9D4EDD" alt="Contribution     Graph"/>
+  </div>
+  
 </div>
 
 <!-- Tech Stack Section with Modern Design -->
@@ -99,15 +97,6 @@
 <h3 align="left">🛠️ Tools & Platforms</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=idea,git,github,postman,vscode,eclipse,maven,aws,heroku" alt="Development Tools"/>
-</div>
-
-<!-- GitHub Trophies with Animation -->
-<div align="left">
-  <h2>🏆 GitHub Achievements 🏆</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Vin-it-9&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" width="100%" />
-
-  <!-- Animated Separator -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
 <!-- Developer Tools with Icons in Beautiful Table -->
