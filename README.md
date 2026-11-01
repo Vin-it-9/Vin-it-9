@@ -137,21 +137,24 @@
 
 ```javascript
 const skills = {
-  languages: ["Java","C","C++","Python","JavaScript","Kotlin","C#"],
+  languages: ["Java", "C", "C++", "Python", "TypeScript", "JavaScript", "Kotlin", "C#", "Groovy", "Scala"],
   backend: {
-       javaFrameworks:["Spring Boot","Spring Web","Spring Data","Spring Security","Spring Cloud","Micronaut","Quarkus","Node.js"],
-       architecture:["Microservices","RESTful API Design","Event-Driven"]
-          },
-  frontEnd: ["HTML","CSS","Thymeleaf","Tailwind CSS","Alpine.js","Servlet/JSP","React","Vaadin"],
-  databases: ["MySQL","PostgreSQL","MongoDB","Redis"],
-  orm: ["JDBC","JPA","Hibernate"],
-  buildTools: ["Maven","Gradle"],
-  cloud: ["AWS","Heroku"],
-  versionControl: ["Git","GitHub"],
-  ideTools: ["IntelliJ IDEA","DataGrip","VS Code"],
-  apiTools: ["Postman","cURL"],
-  testing: ["JUnit","Mockito"],
-  fundamentals: ["Data Structures","Algorithms","OOP","DBMS","Design Patterns","SOLID Principles"]
+    javaFrameworks: ["Spring Boot", "Spring Web", "Spring Data", "Spring Security", "Spring Cloud", "Micronaut", "Quarkus", "Node.js", "Helidon", "Preonus"],
+    architecture: ["Microservices", "RESTful API Design", "Event-Driven"]
+  },
+  frontEnd: ["HTML", "CSS", "Thymeleaf", "Tailwind CSS", "Alpine.js", "Servlet/JSP", "React", "Vaadin", "Astro", "Next.js", "NestJS"],
+  databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
+  orm: ["JDBC", "JPA", "Hibernate", "Panache", "Prisma"],
+  buildTools: ["Maven", "Gradle"],
+  cloud: ["AWS", "Heroku", "GraalVM"],
+  messaging: ["Apache Kafka"],
+  dbMigration: ["Flyway"],
+  versionControl: ["Git", "GitHub"],
+  ideTools: ["IntelliJ IDEA", "DataGrip", "VS Code"],
+  apiTools: ["Postman", "cURL"],
+  testing: ["JUnit", "Mockito"],
+  libraries: ["Lombok"],
+  fundamentals: ["Data Structures", "Algorithms", "OOP", "DBMS", "Design Patterns", "SOLID Principles"]
 };
 ```
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
